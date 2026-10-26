@@ -29,7 +29,7 @@ ArezOS is an open-source project. If you want to contribute to the development, 
 
 ##  License
 
-This project is open-source and available under the respective open-source licenses (GPL, etc.). 
+This project is open-source and available under the respective open-source licenses (GPL). 
 
 ---
 *ArezOS — Arch Linux made simple.*
