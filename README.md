@@ -1,3 +1,4 @@
+<img width="1338" height="853" alt="Capture" src="https://github.com/user-attachments/assets/e588fb55-2a86-494f-827a-a0e07ff9e51d" />
 # ArezOS
 
 
