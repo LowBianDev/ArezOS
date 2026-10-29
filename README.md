@@ -1,6 +1,6 @@
 <img width="1338" height="853" alt="Capture" src="https://github.com/user-attachments/assets/e588fb55-2a86-494f-827a-a0e07ff9e51d" />
 # ArezOS
-
+**our Telegram channel! https://t.me/JeffreyMobVR**
 
 **ArezOS** is a simple, ready-to-use Arch Linux distribution designed specifically for everyday users. Built on the powerful and flexible foundation of Arch Linux, ArezOS eliminates the steep learning curve and provides a complete desktop experience out of the box. 
 
