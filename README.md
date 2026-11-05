@@ -1,5 +1,7 @@
 <img width="1080" height="1080" alt="IMG_20261101_180001_141" src="https://github.com/user-attachments/assets/d5068c5b-f99a-42c9-98e1-b206f4403607" />
 
+
+
 **our Telegram channel! https://t.me/JeffreyMobVR**
 
 **ArezOS** is a simple, ready-to-use Arch Linux distribution designed specifically for everyday users. Built on the powerful and flexible foundation of Arch Linux, ArezOS eliminates the steep learning curve and provides a complete desktop experience out of the box. 
@@ -36,3 +38,5 @@ This project is open-source and available under the respective open-source licen
 *ArezOS — Arch Linux made simple.*
 
 *The release is scheduled for December 2, 2026.*
+
+(logo;koshak) (name and packages;kivf)
