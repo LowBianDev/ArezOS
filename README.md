@@ -1,3 +1,4 @@
+<img width="1080" height="1080" alt="IMG_20261101_180001_141" src="https://github.com/user-attachments/assets/d5068c5b-f99a-42c9-98e1-b206f4403607" />
 
 **our Telegram channel! https://t.me/JeffreyMobVR**
 
