@@ -39,4 +39,4 @@ This project is open-source and available under the respective open-source licen
 
 *The release is scheduled for December 2, 2026.*
 
-(logo;koshak) (name and packages;kivf)
+(logo; jelly-21354 and kvif) (name and packages;kivf)
